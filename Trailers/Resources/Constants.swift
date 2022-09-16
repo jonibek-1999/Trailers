@@ -15,6 +15,7 @@ struct Color {
     static let buttonColor = UIColor(named: "buttonColor")
     static let darkRedColor = UIColor(r: 186, g: 24, b: 27, a: 1)
     static let lightRedColor = UIColor(r: 229, g: 56, b: 59, a: 1)
+    // new comment
 }
 
 enum Vibration {
