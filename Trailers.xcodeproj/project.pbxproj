@@ -26,6 +26,7 @@
 		B68418D628D33CAB001C19B0 /* ThemePopoverVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = B68418D528D33CAB001C19B0 /* ThemePopoverVC.swift */; };
 		B68418D928D3582D001C19B0 /* ThemeTVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = B68418D828D3582D001C19B0 /* ThemeTVC.swift */; };
 		B68418DB28D3903D001C19B0 /* AboutVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = B68418DA28D3903D001C19B0 /* AboutVC.swift */; };
+		B68418DD28D453C0001C19B0 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = B68418DC28D453BF001C19B0 /* .gitignore */; };
 		B6B8EB6428CB66F3000F7BAE /* soft-tone.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = B6B8EB6328CB66F2000F7BAE /* soft-tone.mp3 */; };
 		B6B8EB6A28CBA868000F7BAE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B6B8EB6728CBA868000F7BAE /* Assets.xcassets */; };
 		B6B8EB7028CBB2A2000F7BAE /* SettingsVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = B6B8EB6F28CBB2A2000F7BAE /* SettingsVC.swift */; };
@@ -62,6 +63,7 @@
 		B68418D528D33CAB001C19B0 /* ThemePopoverVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThemePopoverVC.swift; sourceTree = "<group>"; };
 		B68418D828D3582D001C19B0 /* ThemeTVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThemeTVC.swift; sourceTree = "<group>"; };
 		B68418DA28D3903D001C19B0 /* AboutVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AboutVC.swift; sourceTree = "<group>"; };
+		B68418DC28D453BF001C19B0 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 		B6B8EB6328CB66F2000F7BAE /* soft-tone.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "soft-tone.mp3"; sourceTree = "<group>"; };
 		B6B8EB6728CBA868000F7BAE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B6B8EB6F28CBB2A2000F7BAE /* SettingsVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsVC.swift; sourceTree = "<group>"; };
@@ -146,6 +148,7 @@
 		B6DFFC95287170AF008B38D0 = {
 			isa = PBXGroup;
 			children = (
+				B68418DC28D453BF001C19B0 /* .gitignore */,
 				B6DFFCA0287170AF008B38D0 /* Trailers */,
 				B6DFFC9F287170AF008B38D0 /* Products */,
 			);
@@ -305,6 +308,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B68418DD28D453C0001C19B0 /* .gitignore in Resources */,
 				B6B8EB6428CB66F3000F7BAE /* soft-tone.mp3 in Resources */,
 				B6DFFCAE287170B2008B38D0 /* LaunchScreen.storyboard in Resources */,
 				B6B8EB6A28CBA868000F7BAE /* Assets.xcassets in Resources */,
